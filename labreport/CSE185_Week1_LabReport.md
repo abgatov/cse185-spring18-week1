@@ -1,5 +1,5 @@
-# Put title here
-##### your name
+# Lab 1: Determine What Causes Antibiotic Resistance
+##### Aleksandr Bgatov
 
 ## Abstract
 In no more than 100 words, briefly summarize what was done in the lab this week, what the findings were, and why they were important.
